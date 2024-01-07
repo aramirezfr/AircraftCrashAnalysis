@@ -27,7 +27,7 @@ The dataset contains 90,348 rows of data and 31 columns.
 **Visualizations:**
 ![Aircraft Damage based on Purpose of Flight](https://ibb.co/FYDHvMs)
 ![Total Injuries based on Purpose of Flight](https://ibb.co/D7VtTjW)
-![Aircraft Damage based on Month of Event](https://ibb.co/bd6J8zV)
+![Aircraft Damage based on Month of Event](https://drive.google.com/file/d/141Xzp49XEZL77nHyBG-7g1PHfTW5Gv6X/view?usp=sharing)
 
 
 ## Conclusion
