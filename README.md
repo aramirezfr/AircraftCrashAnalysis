@@ -25,9 +25,11 @@ selected incidents in the United States and international waters.
 The dataset contains 90,348 rows of data and 31 columns.
 
 **Visualizations:**
-![Aircraft Damage based on Purpose of Flight](https://ibb.co/FYDHvMs)
+![Aircraft Damage based on Purpose of Flight](graph1.png)
 ![Total Injuries based on Purpose of Flight](https://ibb.co/D7VtTjW)
 ![Aircraft Damage based on Month of Event](https://ibb.co/28dwyz8)
+
+Tableau Dashboard Link [Here](https://public.tableau.com/app/profile/adriana.ramirez.franco/viz/AircraftProposalDashboard/Dashboard?publish=yes).
 
 
 ## Conclusion
