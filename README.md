@@ -1,16 +1,14 @@
 # Aircraft Acquisition Proposal
 
 ## Overview:
-Utilizing a dataset encompassing aviation accident data, I have 
-conducted a comprehensive analysis with the aim of providing 
+I have conducted a datananalysis with the aim of providing 
 recommendations for the optimal aircraft selection to ensure a 
 successful business venture. This analysis is grounded in three key 
 recommendations and factors crucial for evaluating the viability of 
 initiating such a business endeavor.
 
 ## Business Understanding: 
-The company is exploring the procurement and operation of airplanes 
-for both commercial and private enterprises. The forthcoming data 
+The company is exploring the operation of airplanes for both commercial and private enterprises. The forthcoming data 
 analysis is designed to assist the company in identifying aircraft 
 with the lowest risk profile, aiding in the informed decision-making 
 process for the initiation of this new business endeavor.
@@ -22,9 +20,14 @@ process for the initiation of this new business endeavor.
 from the National Transportation Safety Board that includes aviation 
 accident data from 1962 to 2023 about civil aviation accidents and 
 selected incidents in the United States and international waters.
+
 **Description of data:**
 The dataset contains 90,348 rows of data and 31 columns.
+
 **Visualizations:**
+![Aircraft Damage based on Purpose of Flight](https://ibb.co/FYDHvMs)
+![Total Injuries based on Purpose of Flight](https://ibb.co/D7VtTjW)
+![Aircraft Damage based on Month of Event](https://ibb.co/bd6J8zV)
 
 
 ## Conclusion
