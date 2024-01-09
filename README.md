@@ -46,8 +46,7 @@ regions of the US to mitigate overall risk.
 Find the full analysis in the [Jupyter Notebook](./AircraftAcquisitionProposalFinal.ipynb) or review this [presentation](./AircraftAcquisitionProposalPresentation.pdf).
 
 
-## 
-Repository Structure
+## Repository Structure
 
 ├── Data
 ├── Graphs
